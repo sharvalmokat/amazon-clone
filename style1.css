@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #dadada;
+}
+.logo{
+    display: flex;  
+    background-color: #131921;
+    height: 76px;
+}
+.nav img{
+    background-color: #131921; 
+    height: 76px;
+    width: 120px;
+}
+.header{
+   align-items: center;
+   justify-content: center;
+   margin-left: 350px;
+
+}
+.header input{
+    font-size: 20px;
+    margin-top: 20px;
+    width: 550px;
+    height: 40px;
+    margin-bottom: 15px;
+}
+.image{
+    position: relative;
+}
+.image img{
+    width: 1519px;
+    height: 550px;
+    margin-top: 10px;
+}
+#img1{
+    position: absolute;
+    top: 0;
+}
+.circle{
+    width: 450px;
+    height: 350px;
+    background-color:white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+h1{
+    font-size: 50px;
+}
+.appliance{
+    display: flex;
+    justify-content: space-evenly;
+}
+.circle img{
+    width: 320px;
+    height: 220px;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.circle p{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.circle1 {
+    width: 450px;
+    height: 350px;
+    background-color:white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.circle1 img{
+    width: 320px;
+    height: 220px;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.circle1 p{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.circle2 {
+    width: 450px;
+    height: 350px;
+    background-color:white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.circle2 img{
+    width: 320px;
+    height: 220px;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.circle2 p{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}

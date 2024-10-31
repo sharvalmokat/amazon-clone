@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+body{
+    background-image: url();
+}  
+.logo{
+    display: flex;  
+    background-color: black;
+}
+.nav img{
+    background-color: black; 
+    height: 76px;
+    width: 140px;
+}
+.header{
+   align-items: center;
+   justify-content: center;
+   margin-left: 350px;
+
+}
+.header input{
+    font-size: 20px;
+    margin-top: 20px;
+    width: 550px;
+    height: 40px;
+    margin-bottom: 15px;
+}
+.image img{
+    width: 1519px;
+    height: 550px;
+    margin-top: 10px;
+}
+.circle{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+.circle1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.box1{
+    text-wrap: wrap;
+    width: 300px;
+    height: 230px;
+    background-color:black;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box2{
+    width: 300px;
+    height: 230px;
+    background-color:black;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box3{
+    width: 300px;
+    height: 230px;
+    background-color:black;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box4{
+    width: 300px;
+    height: 230px;
+    background-color:black;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box1 p{
+    margin-left: 20px;
+    color: white;
+}
+.box1 img{
+    width: 140px;
+    height: 140px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.box1 p{
+    font-size: 19px;
+}
+.box2 img{
+    width: 230px;
+    height: 160px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.box2 p{
+    margin-left: 20px;
+    font-size: 19px;
+    color: white;
+    margin-top: 10px;
+}
+.box3 p{
+    margin-left: 20px;
+    font-size: 19px;
+    color:white;
+    margin-top: 10px;
+}
+.box3 img{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 150px;
+    height: 150px;
+}
+.box4 p{
+    margin-left: 20px;
+    font-size: 19px;
+    color: white;
+    margin-top: 10px;
+}
+.box4 img{
+    width: 150px;
+    height: 150px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.box5{
+    width: 300px;
+    height: 230px;
+    background-color:black;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box6{
+    width: 300px;
+    height: 230px;
+    background-color:black;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box7{
+    width: 300px;
+    height: 230px;
+    background-color:black;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box8{
+    width: 300px;
+    height: 230px;
+    background-color:dadada;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box5 p{
+    margin-left: 20px;
+    font-size: 19px;
+    color: white;
+    margin-top: 10px;
+}
+.box5 img{
+    margin-top: 15px;
+    width: 120px;
+    height: 120px;
+    margin-left: 25px;
+}
+.box6 img{
+    margin-left: 30px;
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+}
+.box6 p{
+    font-size: 19px;
+    margin-left: 15px;
+    color: white;
+    margin-top: 10px;
+}
+.box7 p{
+    font-size: 19px;
+    margin-left: 15px;
+    color: white;
+    margin-top: 10px;
+}
+.box7 img{
+     margin-top: 35px;
+     margin-left: 35px;
+     width: 150px;
+     height: 100px;
+}
+.rectangle{
+   display: flex;
+   justify-content: space-evenly;
+   margin-right: 120px;
+}
+.info1 {
+    width: 250px;
+    height: 100px;
+    background-color:yellow;
+    margin-left: 70px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.info2 {
+    width: 250px;
+    height: 100px;
+    background-color:yellow;
+    margin-left: 70px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.info3 {
+    width: 250px;
+    height: 100px;
+    background-color:yellow;
+    margin-left: 70px;
+    margin-top: 50px;
+    border-radius: 5px;
+
+}
+.info4{
+    width: 250px;
+    height: 100px;
+    background-color:yellow;
+    margin-left: 70px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.info1 p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.info2 p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.info3 p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.info4 p{
+    font-size: 20px;
+    margin-left: 20px;
+}
